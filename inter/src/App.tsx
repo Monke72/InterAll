@@ -1,5 +1,4 @@
-import React, { FC } from "react";
-
+import { FC } from "react";
 import ThemesAll from "./Component/ThemesAll";
 
 const App: FC = () => {
